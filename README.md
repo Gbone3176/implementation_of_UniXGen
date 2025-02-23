@@ -1,4 +1,4 @@
-# Test_2_UniXGen
+# 本地部署UniXGen
 这是我在学习深度学习过程中尝试的第二个项目。这是UniXGen模型。详细的研究代码请参见：[UniXGen GitHub链接](https://github.com/ttumyche/UniXGen)
 
 ## week1
