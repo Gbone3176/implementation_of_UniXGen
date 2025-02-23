@@ -1,5 +1,5 @@
 # 本地部署UniXGen
-这是我在学习深度学习过程中尝试的第二个项目。这是UniXGen模型。详细的研究代码请参见：[UniXGen GitHub链接](https://github.com/ttumyche/UniXGen)
+本仓库用于记录UnixGen本地部署的过程。UniXGen模型详细的研究代码请参见：[UniXGen GitHub链接](https://github.com/ttumyche/UniXGen)
 
 ## week1
 遇到的第一个问题：仓库里面找不到aiosignal包的1.3.1版本，于是从PIPY官网进行下载。首先下载到本地，然后再远程传输到服务器。
